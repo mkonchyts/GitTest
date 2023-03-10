@@ -6,5 +6,7 @@ public with sharing class TestApex {
         System.debug('Master Branch2');
         System.debug('Second Branch0');
         System.debug('Second Branch1');
+        System.debug('Master Branch3');
+
     }
 }
