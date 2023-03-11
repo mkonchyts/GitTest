@@ -7,5 +7,6 @@ public with sharing class TestApex {
         System.debug('Master0');
         System.debug('Master1');
         System.debug('Master2');
+        System.debug('Second3');
     }
 }
