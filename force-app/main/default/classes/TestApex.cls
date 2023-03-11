@@ -4,5 +4,6 @@ public with sharing class TestApex {
         System.debug('Second0');
         System.debug('Second1');
         System.debug('Second2');
+        System.debug('Second3');
     }
 }
