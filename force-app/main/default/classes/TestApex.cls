@@ -8,6 +8,6 @@ public with sharing class TestApex {
         System.debug('Second Branch1');
         System.debug('Master Branch3');
         System.debug('Second Branch2');
-
+        System.debug('Second Branch3');
     }
 }
