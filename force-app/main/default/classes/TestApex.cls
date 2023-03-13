@@ -4,5 +4,6 @@ public with sharing class TestApex {
         System.debug('exp change1');
         System.debug('exp change2');
         System.debug('don change0');
+        System.debug('master change0');
     }
 }
