@@ -8,5 +8,6 @@ public with sharing class TestApex {
         System.debug('master change2');
         System.debug('master change3');
         System.debug('master change4');
+        System.debug('lost1');
     }
 }
